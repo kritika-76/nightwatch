@@ -1,4 +1,4 @@
-blank_issues_enabled: true
+blank_issues_enabled: true.
 contact_links:
   - name: Ask a question
     url: https://github.com/nightwatchjs/nightwatch/discussions
@@ -6,6 +6,6 @@ contact_links:
   - name: Documentation Request
     url: https://github.com/nightwatchjs/nightwatch-docs/issues/new
     about: Request for documentation to be added/altered
-  - name: Chat with other community members. Ask support questions, discuss news and feature requests.
+  - name: Chat with other community members. To ask support questions, discuss news and feature requests.
     url: https://discord.gg/x5RuXc6Z
     about: The official Nightwatchjs Discord community
